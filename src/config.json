@@ -1,11 +1,11 @@
 {
-  "secretKey": "THISISMYSECURETOKEN",
+  "secretKey": "7sjdoj4s4d8sad587sa7d7ax8sa7d8w7",
   "host": "http://localhost",
   "port": "21465",
-  "deviceName": "WppConnect",
+  "deviceName": "Google Chrome",
   "startAllSession": true,
   "tokenStoreType": "file",
-  "maxListeners": 15,
+  "maxListeners": 0,
   "customUserDataDir": "./userDataDir/",
   "webhook": {
     "url": null,
@@ -18,7 +18,7 @@
     "onParticipantsChanged": true
   },
   "archive": {
-    "enable": false,
+    "enable": true,
     "waitTime": 10,
     "daysToArchive": 45
   },
