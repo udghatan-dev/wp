@@ -1,6 +1,6 @@
 {
   "secretKey": "7sjdoj4s4d8sad587sa7d7ax8sa7d8w7",
-  "host": "http://localhost",
+  "host": "https://seahorse-app-za5fy.ondigitalocean.app",
   "port": "21465",
   "deviceName": "Google Chrome",
   "startAllSession": true,
